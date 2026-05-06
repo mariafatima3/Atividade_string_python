@@ -3,3 +3,4 @@ nome = input("Digite seu nome completo: ")
 palavras = nome.split()
 sobrenome = palavras[-1]
 print("Seu sobrenome é:", sobrenome)
+
