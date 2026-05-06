@@ -5,3 +5,5 @@ palavras = frase.split()
 
 for palavra in palavras:
     print(palavra)
+
+    
