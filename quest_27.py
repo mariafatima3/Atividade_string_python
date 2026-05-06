@@ -4,3 +4,5 @@ nome = input("Digite seu nome em letras minúsculas: ")
 letras = nome.capitalize()
 
 print("Seu nome formatado é:", letras)
+
+
